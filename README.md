@@ -1,2 +1,2 @@
 # Coursera
-Coursera Certifications Edit
+Coursera Certifications
